@@ -1,0 +1,15 @@
+#heranca , #sobrecarga , #poliformismo , #encapsulamento {
+    display: none;
+}
+
+p {
+  margin-left: 10px;
+}
+
+img {
+  margin-left: 10px;
+}
+
+h1 {
+    text-align: center;
+}
