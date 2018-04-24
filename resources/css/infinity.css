@@ -80,7 +80,7 @@ button, input, optgroup, select, textarea {
 
 .navbar-brand {
     float: left;
-    height: 50px;
+    height: auto;
     padding: 15px 15px;
     font-size: 18px;
     line-height: 20px;
